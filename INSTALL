@@ -1,0 +1,9 @@
+Building ChessBit
+
+See doc/readme-qt.rst for instructions on building ChessBit QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ChessBit.
+
+See doc/build-*.txt for instructions on building chessbitd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ChessBit.
